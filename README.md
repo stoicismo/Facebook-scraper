@@ -1,4 +1,4 @@
-# Facebook Profile Scraper (Playwright + Stealth)
+# Facebook Profile Scraper
 
 Async Facebook profile scraper built with **Playwright**, **playwright-stealth** and **BeautifulSoup**.  
 The script loads public Facebook profiles, extracts visible information, and generates a clean **HTML report** with profile details and images.
