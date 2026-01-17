@@ -132,7 +132,7 @@ async def scrape_profile(username):
         finally:
             await browser.close()
 
-print("scraper by exposedid, username (no @):\n")
+print("scraper by seneca, username (no @):\n")
 
 async def main():
     while True:
