@@ -21,7 +21,7 @@ The script loads public Facebook profiles, extracts visible information, and gen
 
 ---
 
-## 📸 Screenshots
+## 📸 
 
 <p align="center">
   <img src="example/result_01.png" width="45%">
